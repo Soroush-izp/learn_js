@@ -1,0 +1,9 @@
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval
+
+https://stackoverflow.com/questions/86513/why-is-using-the-javascript-eval-function-a-bad-idea
+
+https://dev.to/amitkhonde/eval-is-evil-why-we-should-not-use-eval-in-javascript-1lbh
+
+https://dev.to/spukas/everything-wrong-with-javascript-eval-35on
+
+https://www.ronaldjamesgroup.com/blog/dont-use-eval-instead-call-javascript-functions-using-their-string-name-javascript-injection-attacks

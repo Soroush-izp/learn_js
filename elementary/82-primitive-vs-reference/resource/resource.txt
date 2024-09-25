@@ -1,0 +1,3 @@
+https://dev.to/js_catch/02-primitive-and-non-primitive-data-types-in-javascript-2dhd
+
+https://medium.com/@junshengpierre/javascript-primitive-values-object-references-361cfc1cbfb0

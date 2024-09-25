@@ -1,0 +1,3 @@
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_AND
+
+https://www.w3schools.com/js/js_bitwise.asp

@@ -1,0 +1,7 @@
+https://code.tutsplus.com/tutorials/24-javascript-best-practices-for-beginners--net-5399
+
+https://jstherightway.org/
+
+https://medium.com/before-semicolon/50-javascript-best-practice-rules-to-write-better-code-86ce731311d7
+
+https://www.educative.io/blog/javascript-tips-simplify-code

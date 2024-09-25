@@ -1,0 +1,3 @@
+https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/
+
+https://www.w3schools.com/js/js_let.asp

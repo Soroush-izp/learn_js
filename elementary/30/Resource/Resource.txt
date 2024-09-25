@@ -1,0 +1,3 @@
+https://javascript.info/function-expressions
+
+https://medium.com/@mandeep1012/function-declarations-vs-function-expressions-b43646042052
