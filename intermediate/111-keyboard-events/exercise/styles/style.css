@@ -1,0 +1,108 @@
+/* 
+      Fonts
+*/
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+/* 
+      Reset Styles
+*/
+a {
+   text-decoration: none;
+   color: inherit;
+}
+
+/* 
+      App Style
+*/
+* {
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+}
+
+html {
+   font-size: 62.5%;
+}
+
+body {
+   font-size: 1.6rem;
+}
+
+.login-page {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   min-height: 100vh;
+   height: 50rem;
+   padding: 1rem;
+   background-color: #7BBA58;
+   position: relative;
+}
+
+.login-form {
+   max-width: 36rem;
+   width: 100%;
+   background-color: #fff;
+   padding: 4.5rem;
+   text-align: center;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+}
+
+.user-input, 
+.user-pass{
+   position: relative;
+}
+
+.username, 
+.password {
+   width: 100%;
+   background-color: #F2F2F2;
+   margin-bottom: 2rem;
+   height: 4.6rem;
+   border: none;
+   padding: 1.5rem;
+   font-size: 1.4rem;
+   outline: unset;
+   font-family: "Roboto", sans-serif;
+   position: relative;
+}
+
+.username::placeholder, 
+.password::placeholder {
+   font-weight: 10;
+   font-size: 1.4rem;
+   color: #b3b3b3;
+   font-family: "Roboto", sans-serif;
+}
+
+.username-validation, 
+.password-validation {
+   display: none;
+   color: rgb(223, 28, 28);
+   font-size: 0.9rem;
+   position: absolute;
+   left: 0;
+   bottom: 0.7rem;
+}
+
+
+.btn {
+   height: 4.6rem;
+   border: unset;
+   color: #fff;
+   background-color: #4caf50;
+   cursor: pointer;
+   font-family: "Roboto", sans-serif;
+}
+
+.login-form__message {
+   font-size: 1.4rem;
+   color: #b3b3b3;
+   margin-top: 2rem;
+}
+
+.login-form__message span {
+   color: #4caf50;
+}

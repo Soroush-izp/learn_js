@@ -1,0 +1,3 @@
+https://www.tutorialrepublic.com/javascript-tutorial/javascript-dom-selectors.php#:~:text=You%20can%20select%20an%20element,element%20in%20the%20DOM%20tree.
+
+https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Locating_DOM_elements_using_selectors
